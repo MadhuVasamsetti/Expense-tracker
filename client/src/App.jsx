@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="title">💰 Expense Tracker</h1>
+      <h1 className="title">💰 Expense</h1>
 
       {/* Summary */}
       <div className="summary">
