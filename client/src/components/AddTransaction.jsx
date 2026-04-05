@@ -24,7 +24,7 @@ function AddTransaction({ addTransaction }) {
 
   return (
     <div className="card">
-      <h3>Add Transaction</h3>
+      <h3>Add</h3>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
