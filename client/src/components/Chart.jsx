@@ -18,7 +18,7 @@ function Chart({ transactions }) {
 
   return (
     <div className="card">
-      <h3>Overview</h3>
+      <h3>Over</h3>
       <PieChart width={250} height={250}>
         <Pie data={data} dataKey="value" outerRadius={80}>
           <Cell fill="#4CAF50" />
