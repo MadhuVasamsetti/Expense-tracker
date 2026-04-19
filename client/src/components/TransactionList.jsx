@@ -6,7 +6,7 @@ function TransactionList({ transactions, filter }) {
 
   return (
     <div className="card">
-      <h3>Transa</h3>
+      <h3>Transact</h3>
       <ul>
         {filtered.map((tx) => (
           <li
